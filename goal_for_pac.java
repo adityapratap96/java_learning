@@ -1,6 +1,3 @@
-import javax.sound.sampled.SourceDataLine;
-
-
 public class goal_for_pac {
     public static boolean canPack(int bigCount,int smallCount ,int goal)
 {

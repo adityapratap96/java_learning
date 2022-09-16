@@ -1,5 +1,3 @@
-package good_ques;
-
 import javax.sound.sampled.SourceDataLine;
 
 

@@ -1,4 +1,4 @@
-package oops;
+package class01;
 
 public class car {
      private int doors;
